@@ -1,3 +1,5 @@
+package Animal;
+
 public class Hyena extends Animal {
 
     // Unique features

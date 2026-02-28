@@ -1,3 +1,5 @@
+package Animal;
+
 public class Bear extends Animal {
 
     // Unique features
