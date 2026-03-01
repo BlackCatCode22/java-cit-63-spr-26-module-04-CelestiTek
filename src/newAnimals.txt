@@ -1,0 +1,35 @@
+New Animals Report
+Generated: 2026-02-28
+
+Hyenas
+-----------------
+Shenzi - 4 years old
+Banzai - 12 years old
+Ed - 4 years old
+Zig - 8 years old
+Total Hyenas: 4
+
+Lions
+-----------------
+Scar - 6 years old
+Mufasa - 12 years old
+Simba - 22 years old
+Kiara - 4 years old
+Total Lions: 4
+
+Bears
+-----------------
+Yogi - 7 years old
+Smokey - 25 years old
+Paddington - 4 years old
+Lippy - 4 years old
+Total Bears: 4
+
+Tigers
+-----------------
+Tony - 2 years old
+Tigger - 4 years old
+Amber - 18 years old
+Cosimia - 3 years old
+Total Tigers: 4
+
